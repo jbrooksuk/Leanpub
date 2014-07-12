@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[C> ## $1\nC>\nC> $2]]></content>
+    <tabTrigger>lp-center</tabTrigger>
+    <description>Leanpub - Center Text</description>
+    <scope>text.html.markdown</scope>
+</snippet>
