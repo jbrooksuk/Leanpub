@@ -1,5 +1,9 @@
 <snippet>
-    <content><![CDATA[W> ## $1\nW>\nW> $2]]></content>
+    <content><![CDATA[
+W> ## $1
+W>
+W> $2
+]]></content>
     <tabTrigger>lp-warning</tabTrigger>
     <description>Leanpub - warning</description>
     <scope>text.html.markdown</scope>
