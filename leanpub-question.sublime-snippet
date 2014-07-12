@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Q> ## $1\nQ>\nQ> $2]]></content>
+    <tabTrigger>lp-question</tabTrigger>
+    <description>Leanpub - Question</description>
+    <scope>text.html.markdown</scope>
+</snippet>
