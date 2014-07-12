@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{icon=${1:support}}
+G> ## $2
+G>
+G> $3
+]]></content>
+    <tabTrigger>lp-generic</tabTrigger>
+    <description>Leanpub - Generic</description>
+    <scope>text.html.markdown</scope>
+</snippet>
