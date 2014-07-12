@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{style=poem}
+~~~~~~
+$1
+~~~~~~
+]]></content>
+    <tabTrigger>lp-poem</tabTrigger>
+    <description>Leanpub - Poem</description>
+    <scope>text.html.markdown</scope>
+</snippet>

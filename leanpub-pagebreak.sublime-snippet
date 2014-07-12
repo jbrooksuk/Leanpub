@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{pagebreak}
+]]></content>
+    <tabTrigger>lp-pagebreak</tabTrigger>
+    <description>Leanpub - Pagebreak</description>
+    <scope>text.html.markdown</scope>
+</snippet>
