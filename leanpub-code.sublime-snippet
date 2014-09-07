@@ -1,6 +1,9 @@
 <snippet>
     <content><![CDATA[
-{title="Listing $1", lang=${2:html}, linenos=off}\n~~~~~~~\n$3\n~~~~~~~
+{title="Listing $1"}
+~~~~~~~
+$3
+~~~~~~~
 ]]></content>
     <tabTrigger>lp-code</tabTrigger>
     <description>Leanpub - Code</description>
